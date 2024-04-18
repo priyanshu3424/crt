@@ -1,5 +1,13 @@
 #include<iostream>
 using namespace std;
+
 int main(){
-    cout<<"hello"<<endl;
+    int x=6;
+    int y=2;
+ 
+int sum = x-(-y);
+cout<<sum<<endl;
+
+
+
 }
