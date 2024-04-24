@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    int a=32;
+    int a=5;
     int b=a>>3;
     int c= 258;
 
