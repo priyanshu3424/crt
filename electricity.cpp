@@ -28,7 +28,6 @@ int main(){
         cost = 200 + (units-400)*7;
     }
 
-
     cout << "Total cost: " << cost + 200 << endl;
     return 0;
 }
