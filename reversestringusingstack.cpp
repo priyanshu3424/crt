@@ -1,6 +1,4 @@
-//Reverse a String using Stack
-
-#include <iostream>
+include <iostream>
 #include <stack>
 #include <string>
 
