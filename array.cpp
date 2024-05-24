@@ -21,7 +21,6 @@ int main() {
     cout << "Array before swap: ";
     printArray(arr, size);
 
-    // Swap the first and last elements
     swapElements(arr, 0, size - 1);
 
     cout << "Array after swap: ";
